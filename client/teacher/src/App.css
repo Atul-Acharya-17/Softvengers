@@ -1,0 +1,283 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  /* background-color:#6f7bd9;} */
+}
+.particles {
+  position: fixed;
+  right: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+/* .logoParent{
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+} */
+
+.logoChild{
+  width: 900px;
+  height: 900px;
+  overflow: hidden;
+  position: relative;
+  left:300px;
+  bottom: 300px;
+}
+.heading{
+  font-weight: bold;
+  color: #4B0082;
+  font-size: 72px;
+  position: relative;
+  left: 550px;
+  bottom: 750px;
+}
+
+.container {
+  background: rgb(196, 210, 244);
+  max-width: 600px;
+  margin: 100px auto;
+  overflow: auto;
+  min-height: 300px;
+  position: relative;
+  /* right: 10px; */
+  bottom:800px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.createContainer {
+  background: rgb(196, 210, 244);
+  max-width: 600px;
+  margin: 100px auto;
+  overflow: auto;
+  min-height: 300px;
+  right: 80px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.bar1 {
+  position: relative;
+  right: 20rem;
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 50px auto;
+}
+.bar2 {
+  position: relative;
+  bottom: 555px;
+  left: 20rem;
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 50px auto;
+}
+.pie {
+  position: relative;
+  bottom: 550px;
+  right: 20rem;
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 10px auto;
+}
+.line {
+  position: relative;
+  bottom: 1100px;
+  left: 20rem;
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 50px auto;
+}
+.paper {
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 50px auto;
+}
+.score {
+  border: 1px solid steelblue;
+  border-radius: 10px;
+  justify-content: space-between;
+  max-width: 600px;
+  text-align: center;
+  align-items: center;
+  margin-left: 29rem;
+  font-family: "Poppins", sans-serif;
+}
+.piechart {
+  max-width: 10rem;
+}
+.graphs {
+  max-width: 100rem;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.btn2 {
+  display: inline-block;
+  background: rgb(15, 170, 1);
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
+}
+
+.btn2:focus {
+  outline: none;
+}
+
+.btn2:active {
+  transform: scale(0.98);
+}
+
+.btn2-block {
+  display: block;
+  width: 100%;
+}
+
+.btn2-block-stats {
+  display: block;
+  width: 100%;
+  position: relative;
+  left: 80px;
+}
+
+.field2{
+  position: relative;
+  left: 80px;
+}
+
+.field3{
+  position: relative;
+  left: 85px;
+}
+
+.button {
+  max-width: 100px;
+}
+.form {
+  margin: 20px 0;
+}
+.task {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.task.reminder {
+  border-left: 5px solid green;
+}
+
+.task h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.add-form {
+  margin-bottom: 40px;
+}
+
+.form-control {
+  justify-content: space-between;
+  margin: 20px 0;
+  max-width: 600px;
+  display: block;
+}
+
+.form-control label {
+  display: block;
+}
+
+.form-control input {
+  width: 100%;
+  height: 40px;
+  margin: 5px;
+  padding: 3px 7px;
+  font-size: 17px;
+}
+
+.form-control-check {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-control-check label {
+  flex: 1;
+}
+
+.form-control-check input {
+  flex: 2;
+  height: 20px;
+}
+/* rgb(24, 0, 88); */
+.table-container {
+  background: rgb(196, 210, 244);
+  max-width: 1200px;
+  margin: 100px auto;
+  overflow: auto;
+  min-height: 300px;
+
+  padding: 30px;
+  border-radius: 10px;
+}
+.LeaderBoard {
+  margin-bottom: 25px;
+}
+.error {
+  font-size: 0.7rem;
+  margin-left: 1rem;
+}
+.assignment-container {
+  max-width: 1200px;
+  margin: 120px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 2px solid steelblue;
+  padding: 30px;
+  border-radius: 2.5px;
+}
+
+.questionBank-container {
+  max-width: 1200px;
+  margin: 120px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 2px solid steelblue;
+  padding: 30px;
+  border-radius: 2.5px;
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}

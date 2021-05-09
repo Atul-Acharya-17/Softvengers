@@ -1,0 +1,78 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@data-ui/histogram": "0.0.84",
+    "@devexpress/dx-core": "^2.7.5",
+    "@devexpress/dx-react-chart": "^2.7.5",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.5",
+    "@devexpress/dx-react-core": "^2.7.5",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.22",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/x-grid-data-generator": "^4.0.0-alpha.22",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.1",
+    "axios": "^0.21.1",
+    "canvasjs": "^1.8.3",
+    "canvasjs-react-charts": "^1.0.5",
+    "immer": "^9.0.1",
+    "jquery": "^3.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "material-table": "^1.69.2",
+    "material-ui": "^0.20.2",
+    "mdbreact": "^5.0.1",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "react-array-input": "^1.0.1",
+    "react-art": "^17.0.2",
+    "react-dom": "^17.0.1",
+    "react-minimal-pie-chart": "^8.2.0",
+    "react-modal": "^3.12.1",
+    "react-native-web": "^0.15.5",
+    "react-particles-js": "^3.4.1",
+    "react-redux": "^7.2.3",
+    "react-redux-form": "^1.16.14",
+    "react-router-dom": "^5.2.0",
+    "react-router-native": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-share": "^4.4.0",
+    "react-tap-event-plugin": "^3.0.3",
+    "reactstrap": "^8.9.0",
+    "shortid": "^2.2.16",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.2.3",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 safari version",
+      "last 1 chrome version",
+      "last 1 firefox version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-modal": "^3.12.0",
+    "@types/shortid": "0.0.29"
+  }
+}
