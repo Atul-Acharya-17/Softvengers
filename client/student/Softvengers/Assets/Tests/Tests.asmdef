@@ -1,0 +1,10 @@
+﻿{
+    "name": "Tests",
+    "references": [
+        "ScriptsAssembly",
+        "ScriptableObjectAssembly"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

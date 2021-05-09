@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: fdf7071835ee1304b9ace3a8fb134893
+  - enabled: 1
+    path: Assets/Scenes/ResetPassScene.unity
+    guid: f0acac2655a9ac340bd93f0ad5e054f4
+  - enabled: 1
+    path: Assets/Scenes/UniverseScene.unity
+    guid: 93279d58da8d36d44a435321fd500c45
+  - enabled: 1
+    path: Assets/Scenes/SolarSystemScene.unity
+    guid: 874d596afb98eba44a13809fc2cc562e
+  - enabled: 1
+    path: Assets/Scenes/PlanetScene.unity
+    guid: 83caef465ea088a4ea1dc8c8ef1c0219
+  - enabled: 1
+    path: Assets/Scenes/SoloGamePlayScene.unity
+    guid: 3f67c12e8757a3947965239691b98b4e
+  - enabled: 1
+    path: Assets/Scenes/ResultScene.unity
+    guid: 9a46c6e9e0e661a498a0460e60dd9a4e
+  - enabled: 1
+    path: Assets/Scenes/MultiverseProgress.unity
+    guid: 3e57e5d49ab5e7d42a928de76853b2df
+  - enabled: 1
+    path: Assets/Scenes/UniverseProgress.unity
+    guid: 8394cc2c7849fad4189768b462807e63
+  - enabled: 1
+    path: Assets/Scenes/AssignmentGamePlayScene.unity
+    guid: 8df78d1a715dec44f8b9383eb0a8b1af
+  - enabled: 1
+    path: Assets/Scenes/Forum.unity
+    guid: 1e49e16fc21188247a0dd68ec0bbe615
+  - enabled: 1
+    path: Assets/Scenes/SolarSystemProgress.unity
+    guid: 59bd80294485fd74185ccc24d9e0590e
+  - enabled: 1
+    path: Assets/Scenes/AssignmentResultScene.unity
+    guid: 0153b851cee0c401ead1dd239f8a34d8
+  - enabled: 1
+    path: Assets/Scenes/HomePageScene.unity
+    guid: 3f444b94ad2ccf141b38b4d55cb91e07
+  - enabled: 1
+    path: Assets/Scenes/ChallengeGamePlayScene.unity
+    guid: e2f529796831fc340a198d0f26921de8
+  - enabled: 1
+    path: Assets/Scenes/ChallengeResultScene.unity
+    guid: 4b227b9d78b5745a2887d4e8a4d9f79c
+  - enabled: 1
+    path: Assets/Scenes/Assignment.unity
+    guid: 9886a0745ecd643468adb94d0e0607ab
+  - enabled: 1
+    path: Assets/Scenes/ChallengeSent.unity
+    guid: 8a1b5b7dffc0b6e459c178eefeeced03
+  - enabled: 1
+    path: Assets/Scenes/ChallengeReceived.unity
+    guid: 8a1ee7595a19d10498875ed1104f1cd4
+  - enabled: 1
+    path: Assets/Scenes/LoginUI.unity
+    guid: 8d399a9f14240f04895864c64f58c4b1
+  - enabled: 1
+    path: Assets/Scenes/CreateChallenge.unity
+    guid: 539523cea6af04b498a380e66bfe4c1b
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 30d64aeaf2dfc4f729ba30383754dd65
+  m_configObjects: {}
